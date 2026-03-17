@@ -43,6 +43,12 @@ Jewish milieu. Many of Jesus' teachings (kingdom of God, resurrection, ethical
 Torah interpretation) align with existing Jewish debates, particularly
 apocalyptic and Pharisaic traditions.
 
+> **For the full deep dive** on each of these groups — including the Dead Sea
+> Scrolls debate, the Qumran–Essene hypothesis, the Masada controversy, every
+> known messianic claimant of the period, the Bar Kokhba revolt, the surviving
+> Samaritan community, and why apocalypticism is the engine of Christianity —
+> see **01b_second_temple_judaism.md**.
+
 ## 3. Messianic Expectations
 
 The Hebrew Bible contains passages later read as messianic (Isaiah 7:14, 9:6–7,

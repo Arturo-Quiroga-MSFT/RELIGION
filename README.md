@@ -29,6 +29,7 @@ the lens of historical scholarship, archaeology, and textual criticism.
 research/
   christianity/
     01_historical_context.md    — Roman-era Palestine, Second Temple Judaism
+    01b_second_temple_judaism.md — Deep dive: Pharisees, Sadducees, Essenes, Zealots, Samaritans, Apocalypticism
     02_jesus_historical.md      — The historical Jesus (what scholars agree on)
     03_early_texts.md           — New Testament formation, authorship, dating
     04_early_church.md          — First three centuries of Christianity
